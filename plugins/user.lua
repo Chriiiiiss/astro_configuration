@@ -6,5 +6,6 @@ return {
       signs = true,
     },
     event = "User Astrofile",
+    cmd = "TodoQuickFix",
   }
 }
