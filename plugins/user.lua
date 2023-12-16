@@ -7,5 +7,8 @@ return {
     },
     event = "User Astrofile",
     cmd = "TodoQuickFix",
+    keys = {
+      {"<leader>T", "<cmd>TodoTelescope<cr>", desc = "Launch TodoTelescope in Terminal"}
+    }
   }
 }
